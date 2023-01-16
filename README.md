@@ -4,8 +4,8 @@
 💡 About this Course ->
 https://www.coursera.org/professional-certificates/gcp-cloud-architect#courses
 
-💡 About Data Science Professional Certificate ->
-https://www.coursera.org/professional-certificates/ibm-data-science
+💡 About GOOGLE Cloud Architect Professional Certificate ->
+https://www.globalknowledge.com/us-en/training/certification-prep/brands/google-cloud/section/cloud-architect/google-certified-professional-cloud-architect/
 
 ##### 🎉 Labs completed by Mansi More
 
